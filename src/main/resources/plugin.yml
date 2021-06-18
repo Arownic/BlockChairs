@@ -1,0 +1,4 @@
+name: Chairs
+version: ${project.version}
+main: io.github.arownic.chairs.Chairs
+api-version: 1.15
